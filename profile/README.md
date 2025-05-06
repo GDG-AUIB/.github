@@ -41,6 +41,7 @@ Our dynamic team is the backbone of GDG AUIB:
 - **Hasan Aldelfi** – Designer
 - **Ryu Nix** – Video Editor
 - **Kadhim Dheyaa** – Core Team Member
+- **Abdullah Almarashdi** – Core Team Member
 - **Anas Malik** – Core Team Member
 - **Sajjad Amer** – Core Team Member
 - **Scar Ali Ammar** – Marketing Lead
