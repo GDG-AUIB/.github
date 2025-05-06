@@ -37,7 +37,6 @@ Our dynamic team is the backbone of GDG AUIB:
 - **Yousif Oday** – Organizer
 - **Mohammed Mousa** – Event Coordinator
 - **Hussein Fouad** – Core Team Member
-- **Mukhtar Hayder** – Mentor
 - **Hasan Aldelfi** – Designer
 - **Ryu Nix** – Video Editor
 - **Kadhim Dheyaa** – Core Team Member
