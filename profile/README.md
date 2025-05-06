@@ -1,4 +1,8 @@
-# 🚀 GDG on Campus – American University of Iraq, Baghdad (AUIB)
+---
+
+![GDG Banner](https://github.com/GDG-AUIB/GDGAUIB-Website/blob/main/src/assets/images/GDG%20On%20Campus%20-%20Horizontal.svg)
+
+---
 
 Welcome to the official GitHub repository of **Google Developer Group (GDG) on Campus at the American University of Iraq – Baghdad (AUIB)**! We are a vibrant, student-led community passionate about technology, innovation, and collaboration.
 
